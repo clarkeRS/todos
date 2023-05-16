@@ -1,0 +1,29 @@
+{
+	"todos": [
+		{
+			"id": 1,
+			"title": "Take out garbage",
+			"completed": true
+		},
+		{
+			"id": 2,
+			"title": "Get API working",
+			"completed": false
+		},
+		{
+			"id": 3,
+			"title": "Create todo component",
+			"completed": false
+		},
+		{
+			"id": 4,
+			"title": "Create Input component",
+			"completed": false
+		},
+		{
+			"id": 5,
+			"title": "Finish Figma Perfect Design",
+			"completed": false
+		}
+	]
+}
